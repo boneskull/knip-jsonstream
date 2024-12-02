@@ -1,0 +1,21 @@
+{
+  "name": "knip-JSONStream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "knip",
+    "knip": "knip"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "knip": "^5.39.0",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "JSONStream": "^1.3.5"
+  }
+}
